@@ -167,7 +167,7 @@ h3 { font-size: var(--fs-h3); }
 .about-section--img {
     width:30%;
     height: 400px;
-    background-image: url(../img/ecstasy.jpg);
+    background-image: url(ecstasy.jpg);
     background-size: cover;
     
 }
